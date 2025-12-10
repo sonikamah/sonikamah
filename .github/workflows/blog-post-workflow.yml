@@ -15,4 +15,7 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/@sonikamaheshwari005"
+          feed_list: "https://medium.com/feed/@YOUR_MEDIUM_USERNAME"
+          max_post_count: 50  # Increase this number to show more posts
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- 📄 [$title]($url) - *$description*"
