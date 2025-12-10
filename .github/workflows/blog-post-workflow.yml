@@ -19,5 +19,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@sonikamaheshwari005"
-          max_post_count: 10
+          max_post_count: 300
           gh_token: ${{ secrets.GITHUB_TOKEN }}
