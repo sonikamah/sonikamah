@@ -1,6 +1,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 React Interview Questions](https://sonikamaheshwari005.medium.com/top-10-react-interview-questions-f38a9197aa59?source=rss-7c9bd20bf657------2)
 - [React 19 in 2025 — What’s New, Why It Matters, and How to Migrate from React 18](https://levelup.gitconnected.com/react-19-in-2025-whats-new-why-it-matters-and-how-to-migrate-from-react-18-c904abde4c37?source=rss-7c9bd20bf657------2)
 - [Meet Code Wiki: Your Codebase, Documented Automatically](https://sonikamaheshwari005.medium.com/code-wiki-c8f1f172b1da?source=rss-7c9bd20bf657------2)
 - [The Rise of AI-Powered Frontend Development — Copilot / Cursor / Figma-to-Code MCP](https://levelup.gitconnected.com/the-rise-of-ai-powered-frontend-development-copilot-cursor-figma-to-code-mcp-4279a9852a44?source=rss-7c9bd20bf657------2)
@@ -10,7 +11,6 @@
 - [Learn by doing !! Become AI Engineer](https://sonikamaheshwari005.medium.com/learn-by-doing-become-ai-engineer-d0b4e5b05f37?source=rss-7c9bd20bf657------2)
 - [How to improve API performance](https://sonikamaheshwari005.medium.com/how-to-improve-api-performance-81327f5d24b1?source=rss-7c9bd20bf657------2)
 - [TCP vs UDP](https://sonikamaheshwari005.medium.com/tcp-vs-udp-144db98cb1b3?source=rss-7c9bd20bf657------2)
-- [How Python Works ?](https://sonikamaheshwari005.medium.com/how-python-works-117439c554af?source=rss-7c9bd20bf657------2)
 <!-- BLOG-POST-LIST:END -->
 
 
