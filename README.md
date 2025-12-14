@@ -2,7 +2,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Meet Code Wiki: Your Codebase, Documented Automatically](https://sonikamaheshwari005.medium.com/code-wiki-c8f1f172b1da?source=rss-7c9bd20bf657------2)
-- [The Rise of AI-Powered Frontend Development — Copilot / Cursor / Figma-to-Code MCP](https://sonikamaheshwari005.medium.com/the-rise-of-ai-powered-frontend-development-copilot-cursor-figma-to-code-mcp-4279a9852a44?source=rss-7c9bd20bf657------2)
+- [The Rise of AI-Powered Frontend Development — Copilot / Cursor / Figma-to-Code MCP](https://levelup.gitconnected.com/the-rise-of-ai-powered-frontend-development-copilot-cursor-figma-to-code-mcp-4279a9852a44?source=rss-7c9bd20bf657------2)
 - [Basics of AutoGen | Agentic Framework](https://sonikamaheshwari005.medium.com/basics-of-autogen-agentic-framework-655dc36f116c?source=rss-7c9bd20bf657------2)
 - [Basics of CrewAI](https://sonikamaheshwari005.medium.com/basics-of-crewai-16a06c368f1e?source=rss-7c9bd20bf657------2)
 - [Getting Started With Agentic RAG](https://sonikamaheshwari005.medium.com/getting-started-with-agentic-rag-bb0964356ee3?source=rss-7c9bd20bf657------2)
