@@ -1,6 +1,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Design a URL Shortener &lpar;bit.ly&rpar;](https://sonikamaheshwari005.medium.com/design-a-url-shortener-bit-ly-3fb5d84cc90f?source=rss-7c9bd20bf657------2)
 - [Modern Performance Optimization](https://levelup.gitconnected.com/modern-performance-optimization-f95272f5524b?source=rss-7c9bd20bf657------2)
 - [Telemetry-Driven UI Composition: Building Frontends That Adapt Themselves](https://levelup.gitconnected.com/telemetry-driven-ui-composition-building-frontends-that-adapt-themselves-9b7072ac370c?source=rss-7c9bd20bf657------2)
 - [Top 10 React Interview Questions](https://sonikamaheshwari005.medium.com/top-10-react-interview-questions-f38a9197aa59?source=rss-7c9bd20bf657------2)
@@ -10,7 +11,6 @@
 - [Basics of AutoGen | Agentic Framework](https://sonikamaheshwari005.medium.com/basics-of-autogen-agentic-framework-655dc36f116c?source=rss-7c9bd20bf657------2)
 - [Basics of CrewAI](https://sonikamaheshwari005.medium.com/basics-of-crewai-16a06c368f1e?source=rss-7c9bd20bf657------2)
 - [Getting Started With Agentic RAG](https://sonikamaheshwari005.medium.com/getting-started-with-agentic-rag-bb0964356ee3?source=rss-7c9bd20bf657------2)
-- [Learn by doing !! Become AI Engineer](https://sonikamaheshwari005.medium.com/learn-by-doing-become-ai-engineer-d0b4e5b05f37?source=rss-7c9bd20bf657------2)
 <!-- BLOG-POST-LIST:END -->
 
 
